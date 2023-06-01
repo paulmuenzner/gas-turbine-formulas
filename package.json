@@ -1,0 +1,26 @@
+{
+  "name": "gas-turbine-formulas",
+  "version": "0.3.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "coveralls": "cat ./coverage/lcov.info | node node_modules/.bin/coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoBurg007/gas-turbine-formulas.git"
+  },
+  "keywords": ["energy", "engineering", "gas", "gas turbine", "turbine"],
+  "author": "Paul Muenzner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoBurg007/gas-turbine-formulas/issues"
+  },
+  "homepage": "https://github.com/JoBurg007/gas-turbine-formulas#readme",
+  "devDependencies": {
+    "coveralls": "^3.1.1",
+    "jest": "^28.1.1"
+  },
+  "dependencies": {}
+}
