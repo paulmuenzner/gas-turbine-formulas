@@ -13,6 +13,10 @@ A TypeScript library of common gas turbine formulas to be used for any energy or
 
 This is not a package which can be installed via npm or yarn. It would be oversized for its actuall purpose. Simply extract your desired function and implement it in your project as needed. Rounding is not applied to the results which would degrade the accuracy of the final values; especially if used in combination with other formulas.
 
+## Demo
+
+https://codesandbox.io/p/sandbox/gas-turbine-formulas-dnitvf
+
 ## Application example
 
 ```
