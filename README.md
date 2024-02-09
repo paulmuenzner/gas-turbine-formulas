@@ -1,3 +1,10 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0e1fd84a579e48228c549d6a1acb49a8)](https://app.codacy.com/gh/paulmuenzner/gas-turbine-formulas/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![TypeScript][ts-shield]](https://www.typescriptlang.org/)
+[![GitHub repo size](https://img.shields.io/github/repo-size/paulmuenzner/gas-turbine-formulas) ](https://img.shields.io/github/languages/code-size/paulmuenzner/gas-turbine-formulas
+)
+[![paulmuenzner github][github-shield]][github-url] 
+[![Contributors][contributors-shield]][contributors-url]
+
 # Gas Turbine Formulas
 
 A TypeScript library of common gas turbine formulas to be used for any energy or engineering-related calculations.
@@ -74,3 +81,13 @@ All test suites can be run with:
 ## Next steps
 
 Where time permits, I will look to expand the gas turbine formula collection which is not 100% complete yet. However, it offers some relevant physical definitions used for gas turbines. Formulas can also be changed in a way that leaves the input and output value one desires.
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[github-shield]: https://img.shields.io/badge/paulmuenzner-black.svg?logo=github&logoColor=ffffff&colorB=000000
+[github-url]: https://github.com/paulmuenzner
+[ts-shield]: https://img.shields.io/badge/TypeScript-5.2.2-007ACC?logo=typescript&logoColor=white
+[contributors-shield]: https://img.shields.io/github/contributors/paulmuenzner/gas-turbine-formulas.svg
+[contributors-url]: https://github.com/paulmuenzner/gas-turbine-formulas/graphs/contributors
+
