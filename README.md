@@ -24,8 +24,8 @@ import { GasTurbine } from "./index";
 const gasTurbine = new GasTurbine();
 
 // To calculate the real work done on the gas through the compressor:
-gasTurbine.Wcr = (298, 419, 5.193, 0.84)
-//returns 748.0392857142857
+gasTurbine.Wcr(298, 419, 5.193, 0.84)
+// returns 748.0392857142857
 ```
 
 ## Available Functions
